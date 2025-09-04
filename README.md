@@ -1,2 +1,2 @@
 # ParspecAAK
-Vulnerable and WAF-protected login forms in PHP
+Login forms in PHP vulnerable to SQL Injection
